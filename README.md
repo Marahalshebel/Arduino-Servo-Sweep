@@ -76,7 +76,7 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 
 ### Circuit
 ```
-ScreenshotArduino.png
+images/ScreenshotArduino.png
 ```
 
 ### Output
