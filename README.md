@@ -25,7 +25,7 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 │
 ├── Servo_Sweep.ino
 ├── Circuit.png
-└── README.md
+├── README.md
 └── Arduino.mp4
 ```
 
@@ -76,7 +76,7 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 
 ### Circuit
 ```
-images/circuit.png
+ScreenshotArduino.png
 ```
 
 ### Output
