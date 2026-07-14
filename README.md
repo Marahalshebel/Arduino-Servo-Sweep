@@ -76,10 +76,10 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 
 ### Circuit
 ```
-images/ScreenshotArduino.png
+![Circuit](ScreenshotArduino.png)
 ```
 
 ### Output
-
+[▶️ Watch Demo](Arduino.mp4)
 
 
