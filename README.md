@@ -5,7 +5,7 @@ An Arduino-based multi-servo control system that synchronizes the movement of fo
 The system uses four servo motors connected to an Arduino Uno. All motors perform the Sweep movement simultaneously by rotating from **0° to 180°** and back to **0°**. After completing the movement, each servo is positioned at **90°** and remains fixed.
 The project was programmed using Arduino IDE and tested in Tinkercad.
 
-### Circuit
+## Circuit
 ![Circuit](ScreenshotArduino.png)
 
 
