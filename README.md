@@ -63,7 +63,7 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 2. Attach each servo motor to its assigned digital pin.
 3. Execute the Sweep movement for all four servo motors.
 4. Move every servo motor to **90°**.
-5. Keep the motors fixed at the final position.
+5. Keep the motors fixed at the final position
 
 
 ## Output
