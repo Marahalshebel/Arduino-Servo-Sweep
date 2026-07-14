@@ -80,6 +80,6 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 ```
 
 ### Output
-[▶️ Watch Demo](Arduino.mp4)
+[click here to watch it](Arduino.mp4)
 
 
