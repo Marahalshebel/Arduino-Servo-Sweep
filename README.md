@@ -75,11 +75,10 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 ## Simulation
 
 ### Circuit
-```
 ![Circuit](ScreenshotArduino.png)
-```
+
 
 ### Output
-[click here to watch it](Arduino.mp4)
+[click here to watch the Output](Arduino.mp4)
 
 
