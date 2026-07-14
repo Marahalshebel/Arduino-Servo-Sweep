@@ -73,6 +73,6 @@ The project was programmed using Arduino IDE and tested in Tinkercad.
 - All four servo motors rotate together from **0° to 180°**.
 - The motors return from **180° to 0°**.
 - Finally, all servo motors move to **90°** and remain in that position.
-[click here to watch the Output](Arduino.mp4)
+- [click here to watch the Output](Arduino.mp4)
 
 
